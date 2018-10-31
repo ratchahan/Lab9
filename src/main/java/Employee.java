@@ -5,8 +5,8 @@
  */
 public class Employee {
 
-    private String name;
-    private String manager;
+    private String name = "John";
+    private String  = "Chris";
 
     /**
      * Constructor for initialization.

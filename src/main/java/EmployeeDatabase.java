@@ -40,6 +40,7 @@ public class EmployeeDatabase {
                 manager = employees.get(i);
                 break;
             }
+            return employee;
         }
         return manager;
     }
